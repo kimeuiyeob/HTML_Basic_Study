@@ -50,26 +50,26 @@ WWW를 위한 표준을 제정하고 관리하는 중립적인 기관이다.<br>
 웹 문서의 구조와 표현, 그리고 동작을 구분해서 사용하는 것을 뜻한다.<br>
 <br>
 <br>
-<h3>1. HTML(Hypertext Markup Language)</h3><br>
+<h3>1. HTML(Hypertext Markup Language)</h3>
   웹 페이지에서 다른 페이지로 이동할 수 있도록 해주는 마크업 언어이다.<br>
   마크업 언어란 태그 방법 체계를 의미하며, 태그 등을 이용하여 문서나 데이터의 구조를 기술하는 언어이다.<br>
   <br>
-2. CSS(Cascading Style Sheets)<br>
+<h3>2. CSS(Cascading Style Sheets)</h3>
   구체적으로 어떤 스타일로 요소가 표시되는 지를 정하는 규격이다.<br>
   HTML은 문서를 구조화(레이아웃)하는 것 뿐만 아니라 꾸미기도 할 수 있지만,<br>
   동일한 디자인을 사용한 문서가 여러 개 있다면, 변경 시 모두 하나씩 수정해야 한다.<br>
   따라서 CSS는 이런 문제를 해결함과 동시에 웹 페이지에서 내용과 스타일을 분리하고 역할도 분리해준다.<br>
   <br>
-3. JS(Javascript)<br>
+<h3>3. JS(Javascript)</h3>
   화면 쪽에서 연산이 가능한 스크립트 언어이다.<br>
   사용자의 다양한 이벤트 처리, 비동기 통신 등을 자유롭게 사용할 수 있다.<br>
   HTML안에서 태그형태로 JS를 사용할 수도 있으며, 외부 파일로 제작 후 포함시켜 사용할 수도 있다. 유효성 검사, 통신 등을 담당한다.<br>
   <br>
-4. XHTML(Extensible HTML)<br>
+<h3>4. XHTML(Extensible HTML)</h3>
   기존에 사용되던 HTML 규격이 가진 문제점을 극복하고 보다 다양한 분야에 응용될 수 있도록 해주는 여러가지 확장된 기능을 포함한다.<br>
   하지만 XML기반으로 만들어졌기 때문에 지원되지 않는 브라우저도 있다. 따라서 HTML과 XHTML은 사실상 큰 차이 없이 사용된다.<br>
   <br>
-5. XML(Extensible Markup Language)<br>
+<h3>5. XML(Extensible Markup Language)</h3>
   어떠한 데이터를 설명하기 위해서 임의로 지은 태그로 데이터를 감싼다.<br>
   태그로 데이터를 설명하며, 이것이 데이터의 표시(Markup)가 되고 추가적인 데이터가 생기면 태그 추가와 태그 내부 내용 추가를 할 수 있다.<br>
   <br>
