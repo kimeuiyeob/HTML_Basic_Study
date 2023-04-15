@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>div</title>
+</head>
+<body>
+	<!--
+		두 개의 div를 50%로 이어서 붙이고 싶을 때, 전체 100% div로 묶어서 다른 여백의 영향을 받지 않게 한다.
+		inline-block요소는 이어서 표현할 때 사이에 공백이 들어가므로 딱 붙지 못한다.
+		float 속성을 사용하여 빈 공간을 모두 채우도록 했다.
+		태그에 float 속성을 준 뒤 원하는 배치 방향을 전달해주면, 해당 방향으로 위치가 고정된다.
+	-->
+	<div style="width: 100%">
+		<div style="display: inline-block; background: red; width: 50%; text-align: center; float: left;">DIV1</div>
+		<div style="display: inline-block; background: green; width: 50%; text-align: center;">DIV2</div>
+	</div>
+	
+	<!-- DIV3, 4, 5, 6, 총 4개의 div 태그를 생성하고,  한 줄로 이어서 나오게 하기-->
+	<div style="width: 100%">
+		<div style="display: inline-block; background: black; color:white; width: 25%; text-align: center; float: left;">DIV3</div>
+		<div style="display: inline-block; background: pink; width: 25%; text-align: center; float: left;">DIV4</div>
+		<div style="display: inline-block; background: skyblue; width: 25%; text-align: center; float: left;">DIV5</div>
+		<div style="display: inline-block; background: navy; width: 25%; color:white; text-align: center;">DIV6</div>
+	</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
