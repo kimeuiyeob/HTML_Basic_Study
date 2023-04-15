@@ -50,7 +50,7 @@ WWW를 위한 표준을 제정하고 관리하는 중립적인 기관이다.<br>
 웹 문서의 구조와 표현, 그리고 동작을 구분해서 사용하는 것을 뜻한다.<br>
 <br>
 <br>
-<h3>1. HTML(Hypertext Markup Language)<h3><br>
+<h3>1. HTML(Hypertext Markup Language)</h3><br>
   웹 페이지에서 다른 페이지로 이동할 수 있도록 해주는 마크업 언어이다.<br>
   마크업 언어란 태그 방법 체계를 의미하며, 태그 등을 이용하여 문서나 데이터의 구조를 기술하는 언어이다.<br>
   <br>
